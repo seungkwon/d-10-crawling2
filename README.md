@@ -5,4 +5,4 @@
 
 
 ### 데이터 결과 화면은 다음과 같습니다.
-<img src="./캡처.PNG" width="250" height="250" />
+<img src="./캡처.PNG" width="400" />
